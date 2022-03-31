@@ -6,14 +6,14 @@
 
  @font-face {
   font-family: ubuntuImport;
-  src: url(ubuntu_regular.ttf);
+  src: url(ubuntu_regular.woff);
   font-display: fallback;
 }
 
 
  @font-face {
   font-family: robotoImport;
-  src: url(roboto_regular.ttf);
+  src: url(roboto_regular.woff);
   font-display: fallback;
 }
 
