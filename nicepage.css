@@ -10,9 +10,6 @@
   font-display: auto;
 }
 
-div {
-  font-family: myFirstFont;
-}
 
  @font-face {
   font-family: robotoImport;
@@ -20,9 +17,10 @@ div {
   font-display: auto;
 }
 
-div {
-  font-family: myFirstFont;
+.logo {
+  font-family: robotoImport;
 }
+
 
 .fr-clearfix::after {
   clear: both;
