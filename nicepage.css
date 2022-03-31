@@ -4,16 +4,6 @@
  * Copyright 2014-2021 Froala Labs
  */
 
- @font-face {
-  font-family: ImportedRoboto;
-  src: url(roboto-regular.woff);
-} 
-
-@font-face {
-  font-family: ImportedUbuntu;
-  src: url(ubuntu-regular.woff);
-} 
-
 .fr-clearfix::after {
   clear: both;
   display: block;
@@ -15781,7 +15771,7 @@ p {
   font-family: Georgia, serif !important;
 }
 .u-font-roboto.u-custom-font {
-  font-family: ImportedRoboto, sans-serif !important;
+  font-family: Roboto, sans-serif !important;
 }
 .u-font-open-sans.u-custom-font {
   font-family: 'Open Sans', sans-serif !important;
@@ -15793,7 +15783,7 @@ p {
   font-family: Montserrat, sans-serif !important;
 }
 .u-font-roboto-condensed.u-custom-font {
-  font-family: ImportedRoboto, sans-serif !important;
+  font-family: 'Roboto Condensed', sans-serif !important;
 }
 .u-font-source-sans-pro.u-custom-font {
   font-family: 'Source Sans Pro', sans-serif !important;
@@ -15808,7 +15798,7 @@ p {
   font-family: 'PT Sans', sans-serif !important;
 }
 .u-font-ubuntu.u-custom-font {
-  font-family: ImportedUbuntu, sans-serif !important;
+  font-family: Ubuntu, sans-serif !important;
 }
 .u-font-titillium-web.u-custom-font {
   font-family: 'Titillium Web', sans-serif !important;
@@ -15817,7 +15807,7 @@ p {
   font-family: Merriweather, serif !important;
 }
 .u-font-roboto-slab.u-custom-font {
-  font-family: ImportedRoboto, serif !important;
+  font-family: 'Roboto Slab', serif !important;
 }
 .u-font-playfair-display.u-custom-font {
   font-family: 'Playfair Display', serif !important;
@@ -21354,7 +21344,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: ImportedUbuntu,sans-serif;
+  font-family: Ubuntu,sans-serif;
 }
 /*end-variables font-family*/
 /*begin-variables color*/
@@ -21378,7 +21368,7 @@ h6 {
   font-family: 'Open Sans',sans-serif !important;
 }
 .u-custom-font.u-heading-font {
-  font-family: ImportedUbuntu,sans-serif !important;
+  font-family: Ubuntu,sans-serif !important;
 }
 /*end-variables font*/
 /*begin-variables colors*/
