@@ -7,14 +7,14 @@
  @font-face {
   font-family: ubuntuImport;
   src: url(ubuntu_regular.ttf);
-  font-display: auto;
+  font-display: fallback;
 }
 
 
  @font-face {
   font-family: robotoImport;
   src: url(roboto_regular.ttf);
-  font-display: auto;
+  font-display: fallback;
 }
 
 .logo {
