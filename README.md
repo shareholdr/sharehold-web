@@ -1,2 +1,0 @@
-# sharehold-web
-shareholdr.io
